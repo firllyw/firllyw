@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-I am a seasoned software engineer with 8+ years of experience and 3 years in technical leadership. I specialize in building high-traffic microservices and managing full product lifecycles. Currently, I am:
+I am a seasoned software engineer with 9+ years of experience and 3 years in technical leadership. I specialize in building high-traffic microservices and managing full product lifecycles. Currently, I am:
 * 🏢 **Founder** at **PT Arafat Solusi Digital**, providing high-level tech services and managed solutions.
 * 🛠️ **Building SIDRA**, a gamified habit-tracking app with a skill-tree progression system.
 * ☁️ **Certified GCP Professional**, focusing on Cloud Architecture and Development.
