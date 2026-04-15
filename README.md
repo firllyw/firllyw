@@ -31,5 +31,5 @@ I am a seasoned software engineer with 9+ years of experience and 3 years in tec
 ---
 
 ### 📊 GitHub Stats
-![Firly's GitHub stats](https://github-readme-stats.vercel.app/api?username=firllyw&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firllyw&layout=compact&theme=tokyonight)
+![Stats](./profile/stats.svg)
+![Languages](./profile/langs.svg)
