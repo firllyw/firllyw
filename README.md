@@ -24,9 +24,9 @@ I am a seasoned software engineer with 9+ years of experience and 3 years in tec
 - **Asset Management Systems:** Developing robust internal tools for LPS and Pettycash management.
 
 ### 📫 Connect with me
-* **LinkedIn:** [Your Profile Link]
-* **Email:** [Your Professional Email]
-* **Website:** [PT Arafat Solusi Digital Link]
+* **LinkedIn:** https://linkedin.com/in/firly-wahyudi
+* **Email:** fwahyudi17@gmail.com
+* **Website:** arafat-solutions.com
 
 ---
 
